@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-   Get your 7-Day weather forescast for your city. 
+   Aircnc - Find your spot!
 </h4>
 
 <br>
